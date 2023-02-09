@@ -1,0 +1,60 @@
+{
+  "fields":[
+    {
+      "type": "input",
+      "inputType": "text",
+      "label": "Nom de l'organisation",
+      "model": "nom",
+      "placeholder": "Nom",
+      "featured": true,
+      "required": true
+    },
+    {
+      "type": "checkbox",
+      "label": "Parent",
+      "model": "parent",
+      "default": false,
+      "featured": true,
+      "required": true
+    },
+    {
+      "type": "input",
+      "inputType": "text",
+      "label": "Adresse",
+      "model": "adresse",
+      "placeholder": "Adresse",
+      "featured": true,
+      "required": true
+    },
+    {
+      "type": "input",
+      "inputType": "number",
+      "label": "Téléphone 1",
+      "model": "tel1",
+      "placeholder": "Téléphone 1",
+      "featured": true,
+      "required": true
+    },
+    {
+      "type": "input",
+      "inputType": "number",
+      "label": "Téléphone 2",
+      "model": "tel2",
+      "placeholder": "Téléphone 2",
+      "featured": true,
+      "required": true
+    },
+    {
+      "forsearch":"x",
+      "type": "select",
+      "label": "Parent",
+      "model": "parentOrganisation",
+      "values": [],
+      "selectOptions": {
+        "oneSelectedText": "Sélectionner une organisation..."
+      }
+
+    }
+
+  ]
+}

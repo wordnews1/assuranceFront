@@ -1,0 +1,48 @@
+[
+    {
+      "text": "#",
+      "value": "id"
+    },
+    {
+      "text": "Accident",
+      "value": "code"
+    },
+    {
+      "text": "Immatriculation",
+      "value": "customerPlate"
+    },
+
+    {
+      "text": "Date de l'accident",
+      "value": "crashDate"
+    },
+    {
+      "text": "Gravité",
+      "value": "severity"
+    },
+    {
+      "text": "Passagers",
+      "value": "personInvolved"
+    },
+    {
+      "text": "Patients",
+      "value": "inCare"
+    },
+    {
+      "text": "Coût",
+      "value": "amount"
+    },
+    {
+      "text": "Coût pris en charge",
+      "value": "amountAccepted"
+    },
+    {
+      "text": "Actions",
+      "value": "actions",
+      "sortable": false
+    }
+  ]
+
+
+
+

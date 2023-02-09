@@ -1,0 +1,48 @@
+[
+    {
+      "text": "#",
+      "value": "id"
+    },
+    {
+      "text": "Nom",
+      "value": "nom"
+    },
+
+    {
+      "text": "Prénom",
+      "value": "prenom"
+    },
+    {
+      "text": "Téléphone",
+      "value": "telephone"
+    },
+    {
+      "text": "Date de l'accident",
+      "value": "crashDate"
+    },
+    {
+      "text": "Coûts",
+      "value": "amount"
+    },
+    {
+      "text": "Hopital",
+      "value": "hopital"
+    },
+    {
+      "text": "Coûts acceptés",
+      "value": "amountAccepted"
+    },
+    {
+      "text": "Status",
+      "value": "status"
+    },
+    {
+      "text": "Actions",
+      "value": "actions",
+      "sortable": false
+    }
+  ]
+
+
+
+
